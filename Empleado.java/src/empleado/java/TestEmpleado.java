@@ -12,7 +12,7 @@ public class TestEmpleado {
     
     public static void main(String[] args) {
         Empleado e1 = new Empleado(1, "Andres Caldo", "Programador", 60000);
-        Empleado e2 = new Empleado("Sofia Guitierrez", "Diseñadora");
+        Empleado e2 = new Empleado("Sofia Guitierrez", "Diseniadora");
         Empleado e3 = new Empleado("Carlos Gomez", "Tester");
 
         e1.actualizarSalario(10); 
